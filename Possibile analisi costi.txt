@@ -1,0 +1,7 @@
+s = servizi; C = CostoTotale; c = costoUnitario; n = numUtenti;
+
+PRIMA
+C/n = (c*s)
+
+DOPO
+C/n = (c*s)/n
